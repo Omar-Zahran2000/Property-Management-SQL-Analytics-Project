@@ -8,55 +8,62 @@ This project analyzes key operational metrics in property management, including 
 
 ### **1. Percent of Rent Collected by Month**
 ![Percent of Rent Collected by Month](images/rent_collected_by_month.png)
+
 **Insight:** Collection performance falls sharply beginning in April (100% → ~65–72%), and July shows 0% collected.  
 **Action:** Collections should review delinquent accounts; accounting should verify July posting delays.
 
 ---
 
 ### **2. Maintenance Cost Share by Category**
-![Maintenance Cost Share by Category](images/maintenance_cost_share_by_category.png)
+![Maintenance Cost Share by Category](images/maintenance_cost_share_by_category.JPG)
+
 **Insight:** Electrical (32.9%) and HVAC (26.8%) account for ~60% of all maintenance spend.  
 **Action:** Negotiate vendor rates; implement preventive maintenance to reduce recurring work orders.
 
 ---
 
 ### **3. Average Rent per Property**
-![Average Rent per Property](images/average_rent_per_property.png)
+![Average Rent per Property](images/average_rent_per_property.JPG)
+
 **Insight:** Property 3 averages $6,400—significantly lower than others ($7,233–$7,300).  
 **Action:** Evaluate pricing strategy, listing quality, and unit condition at Property 3.
 
 ---
 
 ### **4. Maximum Days Past Due (DPD) Per Lease**
-![Max Days Past Due Per Lease](images/dpd_snapshot_max.png)
+![Max Days Past Due Per Lease](images/dpd_snapshot_max.JPG)
+
 **Insight:** Three leases exceed 500 days past due—extreme delinquency.  
 **Action:** Escalate to legal review; audit aging balances for accuracy.
 
 ---
 
 ### **5. Monthly On-Time Payment Rate**
-![Monthly On-Time Rent Payment Rate](images/on_time_payment_rate.png)
+![Monthly On-Time Rent Payment Rate](images/on_time_payment_rate.JPG)
+
 **Insight:** On‑time payments drop to 0% starting in May.  
 **Action:** Confirm posting accuracy; implement reminders, late fees, or payment agreements.
 
 ---
 
 ### **6. Unit Maintenance Cost Ranking**
-![Rank Units by Maintenance Cost](images/unit_maintenance_cost_ranking.png)
+![Rank Units by Maintenance Cost](images/unit_maintenance_cost_ranking.JPG)
+
 **Insight:** Each property has 1–2 units driving the majority of maintenance cost.  
 **Action:** Prioritize inspection or capital upgrades for high‑cost units.
 
 ---
 
 ### **7. Running Total of Payments Per Lease**
-![Running Total of Payments per Lease](images/running_total_payments.png)
+![Running Total of Payments per Lease](images/running_total_payments.JPG)
+
 **Insight:** Flat cumulative totals highlight missed or late payments.  
 **Action:** Use to detect early delinquency and forecast revenue risks.
 
 ---
 
 ### **8. Vacancy Rate per Property**
-![Vacancy Rate per Property](images/vacancy_rate_per_property.png)
+![Vacancy Rate per Property](images/vacancy_rate_per_property.JPG)
 **Insight:** Vacancy is 25% across all properties—high and financially impactful.  
 **Action:** Review pricing, marketing visibility, and unit turn readiness.
 
