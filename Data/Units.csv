@@ -1,0 +1,13 @@
+unit_id,property_id,unit_code,bedrooms,baths,sqft,status
+1,1,NileView-U001,1,1,720,occupied
+2,1,NileView-U002,2,1,920,occupied
+3,1,NileView-U003,2,2,980,vacant
+4,1,NileView-U004,3,2,1150,occupied
+5,2,PalmCourt-U001,1,1,740,occupied
+6,2,PalmCourt-U002,2,2,980,occupied
+7,2,PalmCourt-U003,2,1,910,vacant
+8,2,PalmCourt-U004,3,2,1180,occupied
+9,3,GreenPark-U001,1,1,700,occupied
+10,3,GreenPark-U002,2,2,960,occupied
+11,3,GreenPark-U003,2,1,900,vacant
+12,3,GreenPark-U004,3,2,1160,occupied

@@ -1,0 +1,9 @@
+wo_id,unit_id,created_date,closed_date,category,priority,status,cost
+1,1,2024-01-12,2024-01-15,Plumbing,medium,closed,1200
+2,2,2024-02-20,2024-02-22,Electrical,high,closed,1800
+3,4,2024-03-05,,HVAC,high,in_progress,0
+4,5,2024-01-18,2024-01-19,Appliances,low,closed,600
+5,6,2024-04-20,2024-04-29,Carpentry,medium,closed,1500
+6,8,2024-06-02,,Plumbing,high,open,0
+7,10,2024-06-10,2024-06-12,Electrical,medium,closed,900
+8,12,2024-05-14,2024-05-21,HVAC,high,closed,2200
