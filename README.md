@@ -31,7 +31,7 @@ This project analyzes key operational metrics in property management, including 
 ---
 
 ### **4. Maximum Days Past Due (DPD) Per Lease**
-![Max Days Past Due Per Lease](images/dpd_snapshot_max.jpg)
+![Max Days Past Due per Lease](images/dpd_max_days_past_due.jpg)
 
 **Insight:** Three leases exceed 500 days past due—extreme delinquency.  
 **Action:** Escalate to legal review; audit aging balances for accuracy.
@@ -39,7 +39,7 @@ This project analyzes key operational metrics in property management, including 
 ---
 
 ### **5. Monthly On-Time Payment Rate**
-![Monthly On-Time Rent Payment Rate](images/on_time_payment_rate.jpg)
+![On-Time Rent Payment Rate](images/on_time_payment_rate.jpg)
 
 **Insight:** On‑time payments drop to 0% starting in May.  
 **Action:** Confirm posting accuracy; implement reminders, late fees, or payment agreements.
@@ -47,7 +47,7 @@ This project analyzes key operational metrics in property management, including 
 ---
 
 ### **6. Unit Maintenance Cost Ranking**
-![Rank Units by Maintenance Cost](images/unit_maintenance_cost_ranking.jpg)
+![Unit Maintenance Cost Ranking](images/unit_cost_ranking.jpg)
 
 **Insight:** Each property has 1–2 units driving the majority of maintenance cost.  
 **Action:** Prioritize inspection or capital upgrades for high‑cost units.
@@ -64,6 +64,7 @@ This project analyzes key operational metrics in property management, including 
 
 ### **8. Vacancy Rate per Property**
 ![Vacancy Rate per Property](images/vacancy_rate_per_property.jpg)
+
 **Insight:** Vacancy is 25% across all properties—high and financially impactful.  
 **Action:** Review pricing, marketing visibility, and unit turn readiness.
 
